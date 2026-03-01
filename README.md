@@ -1,0 +1,1 @@
+# 2026-1sem-ADS-BancoDeDados-exercicios
